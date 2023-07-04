@@ -134,7 +134,7 @@ aside p {
 .button {
     transition: background-color 500ms;
     border: none;
-    background-color: var(--brand-primary);
+    background-color: var(--brand-secondary);
     color: var(--white);
     font-size: 18px;
     padding: 20px;
